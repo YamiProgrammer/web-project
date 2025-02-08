@@ -1,6 +1,6 @@
 <x-reseller-layout>
     <div class="container p-6">
-        <h1 class="pb-6">Reseller Homepage</h1>
+        <h1 class="pb-6">Reseller Homepage change 1</h1>
         
         <div class="grid grid-cols-1 md:grid-cols-3">
             @foreach($products as $product)
